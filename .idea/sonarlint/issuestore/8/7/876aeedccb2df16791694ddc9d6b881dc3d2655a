@@ -1,0 +1,10 @@
+
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ä«ïµ8§éÂæª2
+B
+java:S3457"%String contains no format specifiers.(¦ÇÓ»8¨éÂæª2
+G	java:S106"+Replace this use of System.out by a logger.(¦ÇÓ»8©éÂæª2
+K
+java:S2115")Add password protection to this database.(˜àúùÿÿÿÿ8©éÂæª2
+L	java:S1060"+Replace this use of System.out by a logger.(á…œşÿÿÿÿ8«éÂæª2
+G	java:S1063"+Replace this use of System.out by a logger.(å© ÿ8«éÂæª2
